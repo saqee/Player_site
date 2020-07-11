@@ -1,0 +1,52 @@
+body{
+    background-color: #F3F1FF;
+}
+
+.navbar{
+    background-image:linear-gradient(#D39B87,#FBE4CF) ;
+}
+
+ul li a{
+    color: black !important;
+   
+}
+.collapse a:hover{
+    transform:scale(1.2);
+    background-image:linear-gradient(#FBE4CF,#D39B87);
+}
+
+.navbar-brand img{
+    width: 40.42px;
+}
+
+.player img{
+    width: 56px;
+}
+.player-header{
+    width: 870px;
+    border: 1px solid #D39B87;
+    border-radius: 25px;
+
+}
+.blog img{
+    width: 177px;
+}
+.course{
+    width: 870px;
+    border: 2px  solid #D39B87  ;
+    border-radius: 25px;
+}
+.box{
+    width:300px ;
+    box-shadow: 10px 10px 15px #D55A5A;
+    border-radius: 25px;
+   
+}
+.course img{
+    width: 177px;
+    height: 104px;
+    padding-right: 20px;
+}
+.checked{
+    color: orange;
+}
